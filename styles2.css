@@ -1,0 +1,45 @@
+:root
+        {color: white;
+        color: #757575;
+        background-color: black;
+        background-color: white;
+        color: rgba(255, 255, 255, 0.60);
+        color: grey;
+        color: #212121;
+        color: #2196F3;}
+button
+        {background-color: blue;
+         color: white;}
+h2
+        {color: white;}
+ a
+        {color: #212121;}
+.email
+        {color: #2196F3;}
+.tel
+        {color: #757575;}
+.firsta
+        {
+        color: #2196F3;}
+.container
+        {background-color: black;}
+h3
+        {color: #212121;}
+h4
+        {color: #212121;}
+h5
+        {color: #212121;}
+.text
+        {color: #757575;}
+address
+        {color: white;}
+ .persinform
+        {color: rgba(255, 255, 255, 0.60);}
+.containerlast
+        {background-color: black;}
+h6
+        {color: grey;}
+p
+        {color: #757575;}
+.main-container
+        {background-color: white;}
